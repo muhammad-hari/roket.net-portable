@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0</version>
+    <title>Roket.NET.Portable</title>
+    <authors>Muhammad Hari</authors>
+    <owners>Socio Inc</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>.NET Framework Library</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Roket.NET. Roket.NET Framework, Roket, Hari, Muhammad</tags>
+  </metadata>
+</package>
